@@ -25,7 +25,7 @@ HTML, CSS y JavaScript → Para la estructura, estilos y funcionalidad interacti
 Si deseas ejecutar este proyecto en tu entorno local, sigue estos pasos:
 
 # Clona este repositorio
-git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+git clone git@github.com:Migthy-hexCore/astro-5-amazing-books.git
 
 # Ingresa al directorio del proyecto
 cd nombre-del-repositorio
