@@ -1,48 +1,65 @@
-# Astro Starter Kit: Basics
+📚 Tolkien Books
 
-```sh
-npm create astro@latest -- --template basics
-```
+Este proyecto es una página web que muestra una colección de libros escritos por J.R.R. Tolkien, incluyendo obras como El Señor de los Anillos y El Silmarillion. Cada libro tiene una breve descripción y, al hacer clic en su portada, se despliega una explicación más detallada.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
+🚀 Tecnologías utilizadas
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+Astro → Framework estático para generar la página web.
 
-![just-the-basics](https://github.com/withastro/astro/assets/2244813/a0a5533c-a856-4198-8470-2d67b1d7c554)
+Vercel → Plataforma utilizada para desplegar el sitio.
 
-## 🚀 Project Structure
+HTML, CSS y JavaScript → Para la estructura, estilos y funcionalidad interactiva.
 
-Inside of your Astro project, you'll see the following folders and files:
+✨ Características
 
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+📖 Lista de libros de J.R.R. Tolkien.
 
-To learn more about the folder structure of an Astro project, refer to [our guide on project structure](https://docs.astro.build/en/basics/project-structure/).
+📝 Breve descripción de cada libro.
 
-## 🧞 Commands
+🔍 Explicación detallada al hacer clic en la portada.
 
-All commands are run from the root of the project, from a terminal:
+🎨 Diseño limpio y atractivo para una mejor experiencia de usuario.
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+📂 Instalación y ejecución local
 
-## 👀 Want to learn more?
+Si deseas ejecutar este proyecto en tu entorno local, sigue estos pasos:
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+# Clona este repositorio
+git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+
+# Ingresa al directorio del proyecto
+cd nombre-del-repositorio
+
+# Instala las dependencias (si aplica)
+npm install
+
+# Inicia el servidor de desarrollo
+npm run dev
+
+Abre tu navegador y ve a http://localhost:3000 (o el puerto indicado).
+
+🌐 Despliegue
+
+El proyecto está desplegado en Vercel y puede ser visitado en:
+https://astro-5-dev-books-woad.vercel.app/
+
+🤝 Contribución
+
+Si quieres mejorar el proyecto:
+
+# Haz un fork del repositorio
+git checkout -b mi-nueva-funcionalidad
+
+# Realiza tus cambios y haz un commit
+git commit -m 'Agrega nueva funcionalidad'
+
+# Sube los cambios
+git push origin mi-nueva-funcionalidad
+
+Luego, abre un Pull Request.
+
+📜 Licencia
+
+Este proyecto está bajo la licencia MIT. Puedes ver más detalles en el archivo LICENSE.
+
+¡Gracias por visitar el proyecto! 🧙‍♂️📚
