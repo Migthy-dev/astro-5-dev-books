@@ -25,23 +25,29 @@ HTML, CSS y JavaScript → Para la estructura, estilos y funcionalidad interacti
 Si deseas ejecutar este proyecto en tu entorno local, sigue estos pasos:
 
 # Clona este repositorio
+~~~bash  
 git clone git@github.com:Migthy-hexCore/astro-5-amazing-books.git
+~~~
 
 # Ingresa al directorio del proyecto
+~~~bash  
 cd nombre-del-repositorio
+~~~
 
-# Instala las dependencias (si aplica)
+# Instala las dependencias
+~~~bash  
 npm install
+~~~
 
 # Inicia el servidor de desarrollo
+~~~bash  
 npm run dev
-
-Abre tu navegador y ve a http://localhost:3000 (o el puerto indicado).
+~~~
 
 🌐 Despliegue
 
 El proyecto está desplegado en Vercel y puede ser visitado en:
-https://astro-5-dev-books-woad.vercel.app/
+[https://astro-5-dev-books-woad.vercel.app/](https://astro-5-amazing-books-dm9t.vercel.app/)
 
 🤝 Contribución
 
